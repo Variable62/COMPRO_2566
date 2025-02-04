@@ -1,0 +1,1 @@
+print("This is All Homework of Python")
